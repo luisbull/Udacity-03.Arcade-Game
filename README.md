@@ -8,6 +8,7 @@
 * [How to play](#how-to-play)
 * [Known issue](#known-issue)
 * [External sources](#external-sources)
+* [Future additions](#future-additions)
 
 ## How game was built
 
@@ -44,3 +45,8 @@ SOURCES.JS code file content was provided by Udacity.
 Keyboard function code inside APP.JS was provided by Udacity. 
 
 I made use of collition detection code from [http://blog.sklambert.com/html5-canvas-game-2d-collision-detection/#d-collision-detection] inside my APP.JS file.
+
+## Future additions
+
+Score count.
+Modal to replace alert.
